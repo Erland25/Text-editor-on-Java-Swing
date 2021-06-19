@@ -1,4 +1,4 @@
-#Text editor on Java (Swing)
+# Text editor on Java (Swing)
 
 This is a pretty simple desktop application to work with text files.
 
